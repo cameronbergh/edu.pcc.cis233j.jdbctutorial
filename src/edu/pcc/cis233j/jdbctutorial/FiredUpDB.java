@@ -8,9 +8,9 @@ import java.util.ArrayList;
  */
 public class FiredUpDB {
 
-    private static final String FIREDUP_URL = "jdbc:jtds:sqlserver://cisdbss.pcc.edu/FiredUp";
-    private static final String USERNAME = "275student";
-    private static final String PASSWORD = "275student";
+    private static final String FIREDUP_URL = "";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
 
 
     private static final String CUSTOMER_SQL = "SELECT CustomerID, Name, City, StateProvince FROM CUSTOMER";
